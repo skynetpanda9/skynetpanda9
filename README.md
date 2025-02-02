@@ -4,13 +4,13 @@ I'm a fullstack developer working in Ahmedabad, India
 
 ## Who Am I
 
-I'm a passionate developer with over 3 years of experience specializing in the MERN stack, Next.js, Nuxt.js, Supabase, AWS, and Flutter app development. My journey in back-end development has been marked by a deep dive into both Node.js & Java ecosystem, focusing on API creation and server-side applications. Beyond my technical expertise, I'm driven by a mission to create impactful digital solutions that enhance user experiences and drive business success.
+I'm a passionate developer with over 4.5 years of experience specializing in the MERN stack, Next.js, Nuxt.js, Supabase, AWS, and Flutter app development. My journey in back-end development has been marked by a deep dive into both Node.js & Java ecosystem, focusing on API creation and server-side applications. Beyond my technical expertise, I'm driven by a mission to create impactful digital solutions that enhance user experiences and drive business success.
 
 ### 🛠️ Technical Skills
-- **Languages:** JavaScript, TypeScript, Java, Python
-- **Frameworks/Libraries:** React.js, Vue.js, Next.js, Nuxt.js, Node.js, Express.js, Spring, MVC, JDBC, JPA
-- **Databases:** MongoDB, PostgreSQL, Prisma, Sequelize ORM
-- **Tools & Platforms:** AWS, Supabase, Firebase, Docker, Git, GraphQL, REST API
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks/Libraries:** React.js, Vue.js, Next.js, Nuxt.js, Node.js, Express.js, Django and Flask
+- **Databases:** MongoDB, PostgreSQL, MySql
+- **Tools & Platforms:** AWS, Supabase, Firebase, Docker, Git, GraphQL
 - **Frontend:** UI/UX Design, Tailwind CSS, Redux, Zustand
 - **Testing:** Jest
 - **Others:** SEO, Agile Methodologies, Web Security Practices
